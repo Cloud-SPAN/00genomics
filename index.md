@@ -33,7 +33,7 @@ The course is designed to be taught over four half days of instruction.
 | -------------------------- | ---------|
 | [Project management for cloud genomics](https://cloud-span.github.io/01genomics/) | Learn how to structure your data and metadata, plan for an NGS project, log onto a cloud instance and start navigating using the command line.|
 | [Data preparation and organisation](https://cloud-span.github.io/02genomics/) | Learn how to automate commonly used workflows, organise your file system for a new project, and use command-line tools to perform quality control.|
-| [Assessing read quality then trimming and filtering reads] (https://cloud-span.github.io/03genomics/) | Learn how to identify the quality of data, then filter out poor quality data.|
+| [Assessing read quality then trimming and filtering reads](https://cloud-span.github.io/03genomics/) | Learn how to identify the quality of data, then filter out poor quality data.|
 | [Finding sequence variants](https://cloud-span.github.io/04genomics/) | Learn how to align reads to a reference genome, identify and visualize between-sample variation.|
 
 # Teaching Platform

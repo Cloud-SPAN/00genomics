@@ -14,7 +14,7 @@ The course is designed to be taught over four half days of instruction.
 > This course follows on from our [prenomics course](https://cloud-span.github.io/prenomics00-intro/) please   refer to this material to see whether you will be familiar with the concepts covered there first.
 > If you are unsure whether you need to attend the genomics course or the prenomics course first, then try     [our quiz](https://shiny.york.ac.uk/er13/prenomics-quiz/#section-some-general-questions) first which should   be able to help you judge which is best for you.
 > The prenomics course assumes no prior experience and is designed for absolute beginners.
-> This course presumes some familiarity with the biological concepts, > including genomic variation, and some experience with using command line previously.
+> This course presumes some familiarity with the biological concepts, including genomic variation, and some experience with using command line previously.
 >
 > To get started, follow the directions in the [Setup](setup) tab to get access to the required
 > software and data for this workshop.
@@ -26,6 +26,7 @@ The course is designed to be taught over four half days of instruction.
 >
 > All of the data used in this workshop can be [downloaded from Figshare](https://figshare.com/articles/Data_Carpentry_Genomics_beta_2_0/7726454).
 > More information about this data is available on the [Data page](https://cloud-span.github.io/genomics02-proj-mngt-cloud-genomics/data/index.html).
+>
 {: .prereq}
 
 # Course Overview

@@ -11,9 +11,9 @@ The course is designed to be taught over four half days of instruction.
 
 > ## Getting Started
 >
-> This course assumes that learners have no prior experience with the tools covered in the course.
-> However, learners are expected to have some familiarity with biological concepts, including the
-> concept of genomic variation within a population. Participants should bring their own laptops and plan to participate actively.
+> This course follows on from our [prenomics course] (https://cloud-span.github.io/prenomics00-intro/) please  > refer to this material to see whether you will be familiar with the concepts covered there first.
+> If you are unsure whether you need to attend the genomics course or the prenomics course first, then try    > [our quiz](https://shiny.york.ac.uk/er13/prenomics-quiz/#section-some-general-questions) first which should  > be able to help you judge which is best for you. The prenomics course assumes no prior experience and is    > designed for absolute beginners. This course presumes some familiarity with the biological concepts,        > including genomic variation, and some experience with using command line previously.      
+
 >
 > To get started, follow the directions in the [Setup](setup) tab to get access to the required
 > software and data for this workshop.
@@ -31,10 +31,10 @@ The course is designed to be taught over four half days of instruction.
 
 | Lesson                     | Overview |
 | -------------------------- | ---------|
-| [Project management for cloud genomics](https://cloud-span.github.io/genomics02-proj-mngt-cloud-genomics/) | Learn how to structure your data and metadata, plan for an NGS project, log onto a cloud instance and start navigating using the command line.|
-| [Using the command line](https://cloud-span.github.io/genomics03-using-the-command-line/)    | Learn to use the command line to navigate your file system, create, copy, move and remove files and directories, and search within your files.|
-| [Data preparation and organisation](https://cloud-span.github.io/genomics04-data-preparation-organisation/) | Learn how to automate commonly used workflows, organise your file system for a new project, and use command-line tools to perform quality control.|
-| [Data processing and analysis](https://cloud-span.github.io/genomics05-data-processing-analysis) | Learn how to filter out poor quality data, align reads to a reference genome, identify and visualize between-sample variation, and automate these tasks for efficiency and accuracy.|
+| [Project management for cloud genomics](https://cloud-span.github.io/01genomics/) | Learn how to structure your data and metadata, plan for an NGS project, log onto a cloud instance and start navigating using the command line.|
+| [Data preparation and organisation](https://cloud-span.github.io/02genomics/) | Learn how to automate commonly used workflows, organise your file system for a new project, and use command-line tools to perform quality control.|
+| [Assessing read quality then trimming and filtering reads] (https://cloud-span.github.io/03genomics/) | Learn how to identify the quality of data, then filter out poor quality data.|
+| [Finding sequence variants](https://cloud-span.github.io/04genomics/) | Learn how to align reads to a reference genome, identify and visualize between-sample variation.|
 
 # Teaching Platform
 

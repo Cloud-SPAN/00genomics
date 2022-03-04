@@ -21,9 +21,6 @@ The module is designed for a four half-day, tutor-led workshop, or for self stud
 >
 > To get started, follow the directions in the [Setup](setup) tab to get access to the required software and data for this workshop.
 > 
-
-
-
 {: .prereq}
 
 > ## Data

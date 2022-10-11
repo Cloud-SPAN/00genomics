@@ -1,4 +1,29 @@
 ---
+bioschemas:
+  "@context": "https://schema.org"
+  "@type": "LearningResource"
+  "@id": "https://cloud-span.github.io/00genomics/"
+  "http://purl.org/dc/terms/conformsTo":
+  - "@type": CreativeWork
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
+  about:
+  - "@id": "http://edamontology.org/topic_0622"
+  - "@id": "http://edamontology.org/topic_3372"
+  - "@id": "http://edamontology.org/topic_2885"
+  - "@id": "http://edamontology.org/topic_0769"
+  - "@id": "http://edamontology.org/topic_3365"
+  abstract: "Genomics teaches data management and analysis for genomics research including: (1) best practices for organization of bioinformatics projects and data, (2) use of command-line utilities to connect to and use cloud computing and storage resources, (3) use of command-line tools for data preparation, (4) use of command-line tools to analyze sequence quality and perform and automate variant calling."
+  author: ["Emma Rand", "Sarah Forrester", "Annabel Cansdale", "Jorge Buenabad-Chavez", "Evelyn Greeves"]
+  contributor: ["James Chong", "Emma Barnes", "University of York", "Software Sustainability Institute"]
+  educationalLevel: "Beginner"
+  identifier: "https://doi.org/10.5281/zenodo.6564314"
+  name: "Cloud-SPAN PGenomics Course"
+  url: "https://cloud-span.github.io/00genomics/"
+  inLanguage: "en"
+  keywords: "shell, command line tools, cloud computing, AWS, genomics, variant calling, HPC, data analysis"
+  license: CC-BY 4.0
+  timeRequired: "PT12H"
+  mentions: ["Git for Windows", "Cloud-SPAN Genomics course", "Data Carpentries Genomics workshop"]
 ---
 
 [Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI innovation scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
